@@ -1,10 +1,6 @@
 # Bi-RRT* Path Planning Algorithm for Large-scale Apple Picking Robot
 Project: ENPM661 - Planning for Autonomous Robots
 
-## Contributors
-* Hamsaavarthan Ravichandar
-* Caleb James Myers
-* Dillon Michael Miller
 
 ## Accomplishments
 * Enabled novel apple-picking robot to identify optimal paths among diverse target locations, enhancing operational efficiency and diminishing search time by 30% by implementing a sample-based search algorithm using ROS2 Gazebo.
@@ -33,4 +29,9 @@ Permutation Analysis
 *   If assumed a travel time of 5 m/s, this is a difference of 37.4 seconds,or a 188% improvement in time efficiency
 Computational time
 * There was no significant difference in path planning time between the best and worst paths. Path cost was independent of computational time
+
+## Contributors
+* Hamsaavarthan Ravichandar
+* Caleb James Myers
+* Dillon Michael Miller
 
